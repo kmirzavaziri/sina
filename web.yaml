@@ -1,0 +1,46 @@
+web:
+  title: "{{ cv.name }}"
+  assets:
+    header: assets/img/sina.jpeg
+    features: assets/img/sina-card.jpeg
+    core_experiences: assets/img/core-experiences.png
+    motto: assets/img/motto.png
+    resume: assets/pdf/MohammadrezaHassani_Resume.pdf
+  subtitles:
+    - Software Engineer & Aspiring Product Growth Specialist
+    - Dubai, UAE
+  features:
+    - Product Growth Strategist
+    - Data-Driven Product Innovator
+    - Proficient in Go, Python, and PHP
+    - Product Management Enthusiast
+    - Skilled in User Funnel Optimization
+    - Studying Kubernetes & Cloud Technologies
+    - Resident in Dubai
+    - Agile Product Discovery Practitioner
+    - Fluent in Persian, English & Turkish
+    - Fintech Product Development Expert
+    - Cross-Functional Team Collaborator
+    - Certified in Product Discovery (Pendo.io)
+    - Logical Thinker
+  core_experiences:
+    - title: Building Scalable Fintech Solutions
+      subtitle: Driving efficiency through innovative software engineering
+      img: assets/img/ce1.png
+      description: |
+        With a strong foundation in software engineering, I specialize in developing scalable fintech systems that optimize user experiences and business outcomes. At NinjaGaming and United Future, I designed real-time analytics and payment funnel optimizations using Go, gRPC, Kafka, and ClickHouse, boosting conversion rates by 15% and reducing processing times by 20%. My approach combines technical precision with a user-centric mindset, ensuring solutions align with market needs. By leveraging data insights and agile methodologies, I empower cross-functional teams to deliver impactful features that drive revenue and user satisfaction, laying the groundwork for sustainable growth in fast-paced industries.
+    - title: Driving Product Growth Through Data
+      subtitle: Transforming insights into actionable strategies
+      img: assets/img/ce2.png
+      description: |
+        Passionate about product-led growth, I harness data to uncover opportunities and refine user experiences. At Digikala, the MENA region’s largest e-commerce platform, I optimized invoicing and discount systems, increasing sales by 10% through data-driven funnel improvements. Using tools like SQL and Python, I analyze user behavior to identify trends and propose experiments, such as A/B tests, that enhance engagement. My collaborative approach ensures stakeholders align on KPIs, fostering innovation and adaptability. By blending technical expertise with product management frameworks like Pendo’s Product Management Life Cycle, I create strategies that resonate with users and fuel organizational success.
+    - title: Pioneering System Design & Scalability
+      subtitle: Crafting resilient platforms for dynamic markets
+      img: assets/img/ce3.png
+      description: |
+        My experience in system design and cloud technologies drives the creation of robust, scalable platforms. At DMOND Startup Accelerator, I redesigned an LMS platform using Python and Django, improving scalability and user engagement by 25% through analytics-driven enhancements. Currently studying Kubernetes and preparing for certifications like CKAD, I’m deepening my expertise in cloud-native architectures to build future-ready systems. My logical thinking and proactive learning enable me to tackle complex challenges, from integrating payment gateways to ensuring high uptime in real-time systems. This technical foundation, paired with a strategic vision, positions me to deliver solutions that adapt to evolving industry demands.
+  motto:
+    title: Collaboration Fuels Innovation
+    description: |
+      "I believe collaboration is the heartbeat of innovation. By fostering open communication and aligning diverse perspectives, we unlock creative solutions that drive meaningful impact. My approach is rooted in listening, adapting, and empowering teams to turn challenges into opportunities. Whether coding scalable systems or strategizing product growth, I’m committed to building bridges between ideas and execution, ensuring every project delivers value. With a passion for learning and a focus on results, I strive to create solutions that not only meet today’s needs but also shape tomorrow’s possibilities."
+    author: MohammadReza Hassani

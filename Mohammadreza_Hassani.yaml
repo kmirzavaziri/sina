@@ -1,0 +1,99 @@
+cv:
+  name: Mohammadreza Hassani
+  location: Dubai, UAE
+  email: mohrezhassani@gmail.com
+  phone: tel:+971-54-435-1377
+  website: https://mohrez.me/
+  social_networks:
+    - network: LinkedIn
+      username: mohammadreza-hassani
+  sections:
+    summary:
+      - |
+        Results-driven Product Growth professional with over 5 years of experience in software engineering and fintech,
+        delivering data-driven solutions for MENA’s leading e-commerce platform, Digikala (41M+ active users). Skilled
+        in SQL, A/B testing, and quantitative analysis, I specialize in crafting strategies that optimize user funnels
+        and drive business growth. Experienced in building business dashboards from a developer’s perspective,
+        translating complex data into actionable insights that align with business goals. Certified in Pendo.io and
+        mentored by global product leaders, I am passionate about leveraging technology to enhance user experiences and
+        eager to contribute my analytical expertise and collaborative mindset to Bayut & dubizzle’s mission of empowering
+        millions in the UAE.
+    skills:
+      - "**Product Discovery.** Data-Driven Strategy • Experimentation • BI Dashboards • Product Analytics • User Insights"
+      - "**Product Definition.** OKR Formulation • Prioritization Frameworks"
+      - "**Product Development.** Engineering Collaboration • Microservices Architecture • Scalable Systems"
+      - "**Product Launch.** Experiment Analysis • Stakeholder Alignment"
+      - "**Growth & Iteration.** Funnel Optimization • Technology Integration"
+    experiences:
+      - position: Software Engineer (Gaming & Fintech)
+        company: NinjaGaming
+        location: Dubai
+        start_date: 2025
+        end_date: present
+        highlights:
+        - Boosted conversion rates 20% and cut disputes 30% with SQL-optimized payment funnels.
+        - Increased revenue per user 12% via A/B-tested dynamic pricing.
+        - Defined KPIs and visualized data to align fintech features with growth.
+      - position: Software Engineer (Gaming & Fintech)
+        company: United Future
+        location: Dubai
+        start_date: 2024
+        end_date: 2025
+        highlights:
+        - Built real-time analytics system with gRPC, Kafka, and ClickHouse for 70+ reports.
+        - Reduced license processing time by one week with SQL optimizations.
+        - Ensured 99.999% uptime with scalable PostgreSQL and ClickHouse databases.
+      - position: Fintech Engineer
+        company: Digikala
+        location: Tehran
+        start_date: 2021
+        end_date: 2024
+        highlights:
+        - Raised weekly sales by 616K AED with A/B-tested discount system for 41M+ users.
+        - Cut invoicing retrieval time by 50ms with centralized SQL databases.
+        - Saved 244K AED annually by refactoring invoicing for tax compliance.
+      - position: Product Engineer
+        company: DMOND Startup Accelerator
+        location: Tehran
+        start_date: 2019
+        end_date: 2021
+        highlights:
+        - Migrated LMS to Python/Django, cutting server load 30% and response time 25%.
+        - Reduced course completion time 20% with A/B-tested feedback loop.
+        - Secured stakeholder buy-in with SQL-driven KPI analytics and visualizations.
+    education:
+      - institution: University of Tehran
+        area: Computer Science
+        degree: B. Sc.
+        start_date: 2017
+        end_date: 2022
+    certification:
+      - |
+        [**Product Management Basics,** *Pendo.io*](https://www.credly.com/badges/c1ff3741-3932-4084-9411-747e72b6ee02/)
+      - |
+        [**Product Discovery,** *Pendo.io*](https://www.credly.com/badges/96d3e9f9-cd3e-4a80-86a6-7bc523af9d22/)
+design:
+  theme: classic
+  page:
+    show_page_numbering: false
+    show_last_updated_date: false
+    size: a4
+    bottom_margin: 1.5cm
+    left_margin: 1cm
+    right_margin: 1cm
+    top_margin: 1.5cm
+  text:
+    font_size: 10pt
+    alignment: justified
+    leading: 10pt
+  header:
+    name_font_size: 20pt
+  section_titles:
+    vertical_space_above: 0.7cm
+    vertical_space_below: 0.5cm
+  entries:
+    vertical_space_between_entries: 0.5cm
+
+  highlights:
+    top_margin: 0.3cm
+    vertical_space_between_highlights: 0.3cm
